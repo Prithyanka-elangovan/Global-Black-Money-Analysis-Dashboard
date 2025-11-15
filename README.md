@@ -17,8 +17,11 @@ The dataset includes:
 - Country  
 - Amount (USD)  
 - Amount (INR)  
-- Category  
-- Transaction Type (Added)  
+- Category
+- Industry
+- Destination Country
+- Tax Haven Country
+- Transaction Type 
 - Source: Legal / Illegal (Added)  
 - Risk Score (Created)  
 
