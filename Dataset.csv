@@ -9998,4 +9998,5 @@ TX0000009996,Singapore,2209229,Offshore Transfer,2/21/14 11:00,Person_6896,Real 
 TX0000009997,UAE,4800338,Property Purchase,2/21/14 12:00,Person_6348,Luxury Goods,Russia,FALSE,Legal,10,2,Bank_449,Luxembourg,427230082,Large Risk,Large Transaction,
 TX0000009998,UK,489195,Stocks Transfer,2/21/14 13:00,Person_4171,Oil & Gas,Russia,FALSE,Illegal,5,0,Bank_156,Cayman Islands,43538355,Medium Risk,Large Transaction,
 TX0000009999,Brazil,2233581,Offshore Transfer,2/21/14 14:00,Person_2799,Real Estate,Russia,TRUE,Illegal,10,5,Bank_12,Singapore,198788709,Large Risk,Large Transaction,
+
 TX0000010000,Switzerland,384678,Stocks Transfer,2/21/14 15:00,Person_3267,Arms Trade,China,TRUE,Legal,5,4,Bank_22,Panama,34236342,Medium Risk,Large Transaction,
