@@ -2,7 +2,7 @@
 This project analyzes global black money transactions using a 10,000-row dataset. Excel Power Query is used for ETL operations such as data cleaning, transformation, currency conversion, and risk scoring. Power BI is used to build an interactive dashboard that highlights transaction patterns, category-wise distributions, illegal fund flows, and country-level risk hotspots.
 
 ## 🔍 Problem Statement  
-Black money movement across countries is hidden, unreported, and difficult to track. Financial analysts need a clear way to identify suspicious patterns, high-value transactions, and illegal fund sources. This project converts raw data into a clean and interpretable dashboard for investigative insights.
+ Illegal financial transactions are rising globally, making it difficult to pinpoint high-risk countries and suspicious money flows. This project analyzes transaction data to highlight risk patterns and support compliance monitoring
 
 ## 🎯 Objectives  
 - Clean and transform raw transaction data  
