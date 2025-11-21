@@ -45,12 +45,6 @@ Total records: **10,000**
 - Illegal transactions show higher average amounts  
 - Category patterns reveal hidden or suspicious fund flows  
 
-## 🚀 Future Enhancements  
-- Real-time exchange rates  
-- ML-based fraud prediction  
-- Forecasting trends  
-- Automatic alerts for high-risk transactions  
-
 ## 🧾 Deliverables  
 - Clean ETL Excel file  
 - Power BI dashboard  
