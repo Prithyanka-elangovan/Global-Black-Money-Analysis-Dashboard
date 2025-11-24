@@ -22,7 +22,6 @@ The dataset includes:
 - Tax Haven Country
 - Transaction Type
 - Shell Company
-- Source: Legal / Illegal (Added)  
 - Risk Score (Created)  
 
 Total records: **10,000**
