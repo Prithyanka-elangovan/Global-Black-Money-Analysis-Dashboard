@@ -17,11 +17,11 @@ The dataset includes:
 - Country  
 - Amount (USD)  
 - Amount (INR)  
-- Category
 - Industry
 - Destination Country
 - Tax Haven Country
-- Transaction Type 
+- Transaction Type
+- Shell Company
 - Source: Legal / Illegal (Added)  
 - Risk Score (Created)  
 
