@@ -27,7 +27,7 @@ The dataset includes:
 Total records: **10,000**
 
 ## 🔧 Tools Used  
-- Microsoft Excel (ETL, Power Query)  
+- Microsoft Excel (ETL (Power Query))  
 - Power BI (Visualizations)  
 - GitHub (Documentation & Hosting)
 
