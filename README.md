@@ -7,7 +7,7 @@ This project analyzes global black money transactions using a 10,000-row dataset
 ## 🎯 Objectives  
 - Clean and transform raw transaction data  
 - Convert USD to INR for better financial interpretation  
-- Classify transactions by industry, contry and company
+- Classify transactions by industry, country and company
 - Generate a risk score for fraud or illegal patterns  
 - Build a Power BI dashboard for visualization and insights  
 
