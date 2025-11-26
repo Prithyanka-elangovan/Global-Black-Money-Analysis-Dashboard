@@ -1,5 +1,5 @@
 # Global-Black-Money-Analysis-Dashboard
-This project analyzes global financial transactions to uncover patterns of illegal money flow, high-risk industries, tax-haven links, and shell-company activities using Power BI.
+This project analyzes global financial transactions to uncover patterns of illegal money flow, high-risk industries, tax-haven links, and shell-company activities using Excel and Power BI.
 
 ## 🔍 Problem Statement  
  Illegal financial transactions are rising globally, making it difficult to pinpoint high-risk countries and suspicious money flows. This project analyzes transaction data to highlight risk patterns and support compliance monitoring
